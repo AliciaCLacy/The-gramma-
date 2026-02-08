@@ -4,7 +4,7 @@
 • Integrates a ByteSignature watermark that identifies any use of the artist's music.
 • Is directly tied to automated royalty routing.
 • Uses multi■dimensional inputs rather than simple stream counts.
-• Is authored and governed by Alicia C. Lacy — Theágramma.
+
 2. UNIFIED REAL■TIME HEATSCORE FORMULA
 Inputs (per artist a, time window T):
 C_T = concert & VR attendance
@@ -758,3 +758,4 @@ app = FastAPI(title="THEágramma Ingestion Gateway")
 
 
 @app.post("/events/ingest", dependencies
+Licensed Exclusive Non exclusivebelongs to by Alicia C. Lacy (c)
