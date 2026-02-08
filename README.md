@@ -47,3 +47,4 @@ R_override
 + R_merch_Alicia
 THEa(a,T) = (HeatIndex_T^a, R_Alicia, {R_payees})
 CHARTER Artist ai/ hologram concert MULTI PLATFRM STREAMING ; CONCERT ARCHIVES NEW GEN ; AI lyric-language synthesis.
+License Exclusive Non Exclusive belong to Alicia C Lacy(c). all rights reserved
